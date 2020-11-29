@@ -1,0 +1,1 @@
+This project is about learning unfamiliar technologies, using git, writing and running unit tests.
